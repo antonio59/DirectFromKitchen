@@ -9,6 +9,10 @@ All notable changes to this project will be documented in this file.
 - Add automatic changelog workflow
 - Add automatic changelog workflow
 
+### Changes
+
+- Add README
+
 ### Chores
 
 - Add git-cliff config for changelog generation
@@ -17,6 +21,8 @@ All notable changes to this project will be documented in this file.
 
 ### Documentation
 
+- Update changelog [skip ci]
+- Update changelog [skip ci]
 - Update changelog [skip ci]
 - Update changelog [skip ci]
 
